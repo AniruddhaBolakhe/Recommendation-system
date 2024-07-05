@@ -1,0 +1,29 @@
+| **Category**                             | **Details**                                                                                   |
+|------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Personal Details**                     |                                                                                               |
+| Name                                     | Emily Johnson                                                                                 |
+| Gender                                   | Female                                                                                        |
+| Date of Birth                            | November 5, 1999                                                                              |
+| Email                                    | emily.johnson@example.com                                                                     |
+| Phone                                    | +1 (345) 678-9012                                                                             |
+| **Course Details**                       |                                                                                               |
+| Course                                   | Data Science and Analyst                                                                      |
+| Course Duration                          | 12 months                                                                                     |
+| **Modules Completed and Due**            |                                                                                               |
+| Modules Completed                        | Data Visualization, Machine Learning Algorithms, Natural Language Processing                  |
+| Modules Due                              | Statistical Analysis, Time Series Forecasting                                                 |
+| **Quizzes Completed and Due**            |                                                                                               |
+| Quizzes Completed                        | 19 out of 20 quizzes                                                                          |
+| Quizzes Due                              | 1 quiz pending                                                                                |
+| **Projects Completed and Due**           |                                                                                               |
+| Projects Enrolled                        | 6                                                                                             |
+| Projects Completed                       | 5                                                                                             |
+| Projects Due                             | 1                                                                                             |
+| **Research Papers**                      |                                                                                               |
+| Research Papers                          | 1                                                                                             |
+| **Number of Classes Taken (Attendance)** |                                                                                               |
+| Attendance                               | 96%                                                                                           |
+|**Career Preparation                      |                                                                                               |
+|Resume Building  sessions                 | Attended                                                                                      |
+|Mock Interviews                           | 5 Taken                                                                                       |
+|------------------------------------------|-----------------------------------------------------------------------------------------------|
